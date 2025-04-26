@@ -48,4 +48,5 @@
         </ul>
     </div>
 </footer>
+
 <p class='copy'>&copy;<?php echo date("Y") ?> UK.STORE</p>
